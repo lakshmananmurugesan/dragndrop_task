@@ -3,5 +3,5 @@
 #
 # Examples:
 #
-items = Drag.create([{ name: 'item 1'},{ name: 'item 2'},{ name: 'item 3'},{ name: 'item 4'},{ name: 'item 5'},{ name: 'item 6'}])
+items = Drag.create([{ name: 'Item 1'},{ name: 'Item 2'},{ name: 'Item 3'},{ name: 'Item 4'},{ name: 'Item 5'},{ name: 'Item 6'}])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
